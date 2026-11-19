@@ -17,5 +17,11 @@ function onClick_Btn2 (event) {
     <UButton @click="onClick_Btn2">Button 2</UButton>
     <UButton to="/default">Default Page</UButton>
     <UButton to="/about">About Page</UButton>
+    <UButton to="/examples">Examples Page</UButton>
+  </div>
+  <div>
+    <p>To do:</p>
+    <p>markdown-it</p>
+    <p>iconify and see if I can do away with Nuxt UI</p>
   </div>
 </template>

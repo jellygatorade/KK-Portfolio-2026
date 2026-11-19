@@ -80,13 +80,13 @@ useSeoMeta({
 </template>
 
 <style>
-.page-enter-active,
-.page-leave-active {
-  transition: all 0.3s;
+.fade-enter-active,
+.fade-leave-active {
+  transition: opacity 0.3s ease;
 }
-.page-enter-from,
-.page-leave-to {
+
+.fade-enter-from,
+.fade-leave-to {
   opacity: 0;
-  filter: blur(1rem);
 }
 </style>

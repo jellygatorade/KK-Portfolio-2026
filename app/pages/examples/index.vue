@@ -4,7 +4,7 @@
 
 <template>
   <div class="p-4">
-    <UButton to="/">Home</UButton>
+    <NuxtLink to="/">Home</NuxtLink>
     <p>Examples.</p>
     <p>Component is Transition</p>
     <ExamplesComponentIsMain />

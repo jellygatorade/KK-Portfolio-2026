@@ -6,6 +6,6 @@ import Main from '~/components/Main.vue';
 <template>
   <div class="p-4">
     <p>About.</p>
-    <UButton to="/">Home</UButton>
+    <NuxtLink to="/">Home</NuxtLink>
   </div>
 </template>

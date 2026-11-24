@@ -15,6 +15,10 @@
         <li>Unify focus styles</li>
         <li>Colors</li>
         <li class="line-through">Document how the markdown content is ingested and parsed</li>
+        <li>---</li>
+        <li>Vertical world height problem</li>
+        <li>Arrange nodes by type / date</li>
+        <li>Filter out nodes?</li>
       </ul>
     </div>
   </div>
